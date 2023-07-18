@@ -35,29 +35,69 @@ The repository contains all the necessary HTML, CSS, and JavaScript files, neatl
 
 
 <br>
+<br>
+<br>
+<br>
 
 ![Screenshot 2023-07-18 135712](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/d8ec5f14-f94f-48d2-a881-daf70a8c316f)
 
 <br>
-
+<br>
+<br>
+<br>
 
 
 ![Screenshot 2023-07-18 135732](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/1122e4df-0459-4376-9075-bd79ea818e9d)
+<br>
+<br>
+<br>
+<br>
 
 ![Screenshot 2023-07-18 135749](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/73e1ac84-1778-406f-b823-198c18969846)
 
+<br>
+<br>
+<br>
+<br>
+
 ![Screenshot 2023-07-18 135820](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/5128a7a8-f61f-47cb-af76-33d175627846)
 
+<br>
+<br>
+<br>
+<br>
 
 
 ![Screenshot 2023-07-18 135848](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/238de3a3-d898-4786-9128-4b82b9c1c6b2)
 
+<br>
+<br>
+<br>
+<br>
+
 
 ![Screenshot 2023-07-18 135900](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/6bffda41-06c9-4588-b053-7718539f97d6)
 
+
+<br>
+<br>
+<br>
+<br>
+
 ![Screenshot 2023-07-18 135919](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/1c7fcc33-7eb5-44d4-9b5b-96a252586c92)
 
+<br>
+<br>
+<br>
+<br>
+
+
 ![Screenshot 2023-07-18 135949](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/a3bae0e9-143a-4e87-abf4-091cc659734e)
+
+<br>
+<br>
+<br>
+<br>
 
 
 ![Screenshot 2023-07-18 140006](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/102b803e-6ac3-4b3f-ab60-ce2f467287d2)
