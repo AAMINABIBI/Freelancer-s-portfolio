@@ -1,5 +1,4 @@
-![Screenshot 2023-07-18 135732](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/9603a7c3-8233-47f6-9561-6014ae2d5e52)
-![Screenshot 2023-07-18 135820](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/44a20e91-67d5-4019-a5e5-0eb93361fc63)
+
 # Freelancer-s-portfolio
 
 # Key Features:
@@ -101,3 +100,15 @@ The repository contains all the necessary HTML, CSS, and JavaScript files, neatl
 
 
 ![Screenshot 2023-07-18 140006](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/102b803e-6ac3-4b3f-ab60-ce2f467287d2)
+<br>
+<br>
+<br>
+<br>
+
+![Screenshot 2023-07-18 135732](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/9603a7c3-8233-47f6-9561-6014ae2d5e52)
+
+<br>
+<br>
+<br>
+<br>
+![Screenshot 2023-07-18 135820](https://github.com/AAMINABIBI/Freelancer-s-portfolio/assets/97452800/44a20e91-67d5-4019-a5e5-0eb93361fc63)
